@@ -1,4 +1,4 @@
--- Drop and Create the prs database
+-- Drop and Create the PRS database
 
 DROP DATABASE IF EXISTS prs;
 CREATE DATABASE prs;
